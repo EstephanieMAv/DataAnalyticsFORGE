@@ -10,7 +10,7 @@ print("Hola mundo!")
           '''
 
 ''' print("hola mundo")
-print(3 + 8) '''
+print(3 + 8) 
 
 x = 7
 n = 3
@@ -155,7 +155,6 @@ print("Temperatura media:", temperatura_media)
 #Almacena datos que no deben cambiar, como coordenadas geográficas o dimensiones de un objeto/ tupla de coodernadas
 coordenadas = (19.4326, -99.1332)  # Latitud y longitud de Ciudad de México
 
-'''
 def calcular_distancia(coord1, coord2):
     # Implementación ficticia para calcular la distancia
     distancia = 10  # Solo un valor de ejemplo
@@ -163,7 +162,7 @@ def calcular_distancia(coord1, coord2):
 
 distancia = calcular_distancia(coordenadas, (34.0522, -118.2437))
 print("Distancia:", distancia)
-'''
+
 #funcion tupla y return
 def suma_y_multiplicacion(x, y):
    suma = x + y
@@ -181,5 +180,133 @@ dataset_info = {
 
 print("Nombre del conjunto de datos:", dataset_info["nombre"])
 print("Número de filas:", dataset_info["filas"])
+'''
+# ----------------------------------------------------nueva sección-----------------------------------------------------------
+#FUNCIONES BASICAS
+#1, funcion de cantidad de vocales, en consola muestra 5 a la hora de llamar a la funcion
+'''
+def cantidad_de_vocales():
+    return 5
 
+print(cantidad_de_vocales())
 
+#2, cantidad de glaciares argentina es definida pero cantidad de dias o meses no por lo que tirara un error en consola
+def cantidad_de_glaciares_argentina():
+    return 16968
+print(cantidad_de_dias_o_meses_o_semanas_en_anio() + cantidad_de_glaciares_argentina())
+
+#3, la funcion toma la primer definicion y la otra no la procesa
+def anio_independencia_chile():
+    return 1810
+    return 1851
+print(anio_independencia_chile())
+
+#4, lo mismo que el anterior, toma la primer definicion
+def cantidad_de_departamentos_colombia():
+    return(32)
+    print(33)
+print(cantidad_de_departamentos_colombia())
+
+#5, retorna el valor, la llamada a la funcion se guarda en x (aunque tambien se muestra en consola el valor "none"
+def altura_machu_picchu():
+    print(2438)
+x = altura_machu_picchu()
+print(x)
+
+#6, funcion de suma, genera 2 sumas y en  consola muestra las sumas independientes, no del conjunto
+def suma(a, b):
+    print(a+b)
+print(suma(10, 5) + suma(4, 3))
+
+#7, vuelve string cualquier valor que le ingresen en los parametros e imprime "157", debido al orden del return
+def concatenar(a, b):
+    return str(b) + str(a)
+print(concatenar(7, 15))
+
+#8, la funcion imprime el valor de a y luego retorna el resultado de la condicion if que es 46 sin darle entidad al return 21 que no corresponde
+def paises_latinoamerica_o_lenguas_indigenas():
+    a = 560
+    print(a)
+    if a < 180:
+        return 33
+    else:
+        return 46
+    return 21
+print(paises_latinoamerica_o_lenguas_indigenas())
+
+#9, la primera vez que es llamada nos retorna 365 porque la condicion se cumple, la segunda retorna 12 y la tercera suma los retornos (365 + 12) dando 377
+def cantidad_de_dias_o_meses_o_semanas_en_anio(a, b):
+    if a < b:
+        return 365
+    else:
+        return 12
+    return 52
+print(cantidad_de_dias_o_meses_o_semanas_en_anio(1, 3))
+print(cantidad_de_dias_o_meses_o_semanas_en_anio(7, 4))
+print(cantidad_de_dias_o_meses_o_semanas_en_anio(7, 4) + cantidad_de_dias_o_meses_o_semanas_en_anio(1, 3))
+
+#10, sumatoria imprime 7
+def sumatoria(a, b):
+    return a + b
+    return 157
+print(sumatoria(3, 4))
+
+#11, se imprime 150 3 veces y la anteultima vez que se llama imprime 350
+a = 150
+print(a)
+def funcion():
+    a = 350
+    print(a)
+print(a)
+funcion()
+print(a)
+
+#12, lo mismo que el anterior
+a = 150
+print(a)
+def funcion():
+    a = 350
+    print(a)
+    return a
+print(a)
+funcion()
+print(a)
+
+#13, es similar a la anterior hasta que en a se guarda la llamada de la funcion y la ultima vez que se imprime a devuelve el valor de 350
+a = 150
+print(a)
+def funcion():
+    a = 350
+    print(a)
+    return a
+print(a)
+a = funcion()
+print(a)
+
+#14, cunado se llama a la funcion1, se imprime el 3 de la funcion1 y luego se llama a funcion2 para imprimir 1, para segir con el resto de la funcion1
+def funcion1():
+    print(3)
+    funcion2()
+    print(2)
+def funcion2():
+    print(1)
+funcion1()
+'''
+#15, cuando se imprime b(osea, el llamado funcion1()), la funcion imprime 3, luego cuando se imprime a con la llamada guardada de funcion2(), se imprime 1 y retorna 0 para seuir con el resto de la funcion 1, retornando 4 en consola al final
+def funcion1():
+    print(3)
+    a = funcion2()
+    print(a)
+    return 4
+def funcion2():
+    print(1)
+    return 0
+b = funcion1()
+print(b)
+
+# Crear un diccionario
+edades = {'Alice': 25, 'Bob': 30, 'Carol': 22}
+
+# Recorrer pares clave-valor del diccionario
+for nombre, edad in edades.items():
+    print(nombre, edad)
