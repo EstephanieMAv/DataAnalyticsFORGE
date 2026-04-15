@@ -310,3 +310,15 @@ edades = {'Alice': 25, 'Bob': 30, 'Carol': 22}
 # Recorrer pares clave-valor del diccionario
 for nombre, edad in edades.items():
     print(nombre, edad)
+
+countries_capital = {
+    "USA": "Washington D.C.",
+    "Australia": "Canberra",
+    "France": "Paris",
+    "Egypt": "Cairo",
+    "Japan": "Tokyo"
+}
+
+for country, capital in countries_capital.items():
+    print(country, ":", capital)
+

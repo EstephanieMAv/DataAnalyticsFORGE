@@ -6,11 +6,11 @@ En ciudades, cambia “Cancún” por “Monterrey” LISTO
 En las coordenadas, cambia el valor de “latitud” por 9.9355431 LISTO
  
 
-2. Iterar a través de una lista de diccionarios
+2. Iterar a través de una lista de diccionarios LISTO
 Crea la función iterarDiccionario(lista) que reciba una lista de diccionarios y recorra cada diccionario de la lista e imprima cada llave y el valor correspondiente.
  
 
-3. Obtener valores de una lista de diccionarios
+3. Obtener valores de una lista de diccionarios LISTO
 
 Crea la función iterarDiccionario2(llave, lista) que reciba una cadena con el nombre de una llave y una lista de diccionarios. La función debe imprimir el valor almacenado para esa clave de cada diccionario que se encuentra en la lista. Por ejemplo, iterarDiccionario2(“nombre”, cantantes) debe de imprimir:
 
@@ -50,7 +50,7 @@ print(ciudades)
 
 coordenadas[0]['latitud'] = 9.9355431
 print(coordenadas)
-'''
+
 cantantes = [
     {'nombre': "Ricky Martin", 'pais': "Puerto Rico"},
     {'nombre': "Chayanne", 'pais': "Puerto Rico"},
@@ -59,17 +59,51 @@ cantantes = [
 ]
 
 def iterarDiccionario(cantantes):
-    for nombre, pais in cantantes.values():
+    veces_recorridas = 0
+    for cantante in cantantes:
         veces_recorridas += 1
-        print(f"{veces_recorridas} - Nombre {nombre} - PAIS {pais}")
+        print(f"{veces_recorridas} - Nombre ", cantante['nombre'], " - PAIS ", cantante['pais'])
 
-iterarDiccionario()
-#Imprime "nombre": "Ricky Martin", "pais": "Puerto Rico" (está bien si lo imprime en líneas separadas)
-# Crear un diccionario de estudiantes
-
+iterarDiccionario(cantantes)
 #BONUS: Que aparezcan en este formato:
 #nombre - Ricky Martin, pais - Puerto Rico
 #nombre - Chayanne, pais - Puerto Rico
 #nombre - José José, pais - México
 #nombre - Juan Luis Guerra, pais - República Dominicana
 
+for cantante in cantantes:
+    print(cantante['nombre'])
+
+for cantante in cantantes:
+    print(cantante['pais'])
+'''
+costa_rica = {
+    'ciudades': ["San José", "Limón", "Cartago", "Puntarenas"],
+    'comidas' : ["gallo pinto", "casado", "tamales", "chifrijo", "olla de carne"]
+}
+
+def imprimir_informacion(diccionario):
+    for clave, lista in diccionario.items():
+        print(f"{len(lista)} {clave.upper()}") #saca la cantidad/tamaño y la clave recorrida convirtiendola es mayusculas
+        #para imprimir cada elemento, como me costo uuu
+        for elemento in lista:
+            print(elemento)
+        print(" ") #separacion
+        
+imprimir_informacion(costa_rica)
+#esto lo hago pa' divertirme pa' divertirme y para conseguir la beca por supuesto
+'''
+#imprime:
+4 CIUDADES
+San José
+Limón
+Cartago
+Puntarenas
+
+5 COMIDAS
+gallo pinto
+casado
+tamales
+chifrijo
+olla de carne
+'''
