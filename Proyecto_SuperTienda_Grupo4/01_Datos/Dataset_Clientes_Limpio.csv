@@ -1,0 +1,301 @@
+ID_Cliente,Nombre_Cliente,Segmento,Puntaje_Fidelidad,Canal_Preferido,Cantidad_Pedidos,Monto_Total_Comprado,Ganancia_Total_Generada,Region,Estado,Ciudad,Anio_Ultima_Compra,Ticket_Promedio
+C0001,Fernanda Díaz,Consumidor,55,Web,2,3908.37,1835.42,Norte,Tarapacá,Iquique,2023,1954.19
+C0002,Valentina Muñoz,Home Office,58,Web,5,20655.07,6567.03,Austral,Aysén,Coyhaique,2024,4131.01
+C0003,Diego Castillo,Corporativo,100,App,2,7005.7,2551.35,Austral,Magallanes,Punta Arenas,2025,3502.85
+C0004,Nicolás Silva,Corporativo,22,App,5,25636.41,8560.11,Sur,Los Lagos,Puerto Montt,2024,5127.28
+C0005,Daniela Rodríguez,Consumidor,36,Teléfono,6,27152.27,9017.95,Austral,Magallanes,Punta Arenas,2025,4525.38
+C0006,Vicente Rojas,Home Office,78,App,8,30261.86,10139.25,Norte,Tarapacá,Iquique,2024,3782.73
+C0007,Daniela López,Corporativo,97,App,4,22823.71,6717.39,Sur,Los Ríos,Valdivia,2024,5705.93
+C0008,Jorge Muñoz,Corporativo,18,Teléfono,6,36040.74,12705.12,Centro,Maule,Talca,2025,6006.79
+C0009,Isidora Morales,Consumidor,60,Correo,5,16642.91,4098.42,Centro,O'Higgins,Rancagua,2024,3328.58
+C0010,Valentina Pérez,Consumidor,84,Teléfono,4,22068.18,6707.2,Centro,Maule,Talca,2024,5517.04
+C0011,Paula Rodríguez,Consumidor,21,Correo,3,7274.24,1245.79,Norte,Coquimbo,La Serena,2025,2424.75
+C0012,Sofía Soto,Home Office,59,Web,5,30510.52,10060.28,Norte,Tarapacá,Iquique,2025,6102.1
+C0013,Daniela Araya,Corporativo,97,Web,4,13652.79,2708.5,Centro,O'Higgins,Rancagua,2024,3413.2
+C0014,Isidora Flores,Corporativo,24,Teléfono,8,41675.18,12851.47,Norte,Antofagasta,Antofagasta,2025,5209.4
+C0015,Pedro Hernández,Consumidor,74,App,6,35274.44,11832.12,Centro,Maule,Talca,2024,5879.07
+C0016,Diego Araya,Home Office,57,App,6,22067.25,5322.68,Sur,Biobío,Concepción,2024,3677.88
+C0017,Javiera Araya,Consumidor,72,Sin Información,2,10366.07,2544.79,Centro,Valparaíso,Valparaíso,2024,5183.04
+C0018,Vicente Rodríguez,Corporativo,40,Web,2,13004.26,4941.69,Centro,Valparaíso,Valparaíso,2025,6502.13
+C0019,Matías Torres,Consumidor,26,App,3,9711.2,2628.39,Austral,Aysén,Coyhaique,2024,3237.07
+C0020,Pedro Martínez,Home Office,37,Correo,2,2353.78,642.09,Norte,Antofagasta,Antofagasta,2024,1176.89
+C0021,Martina Contreras,Home Office,95,Correo,4,15342.13,4558.59,Sur,Los Ríos,Valdivia,2025,3835.53
+C0022,Isidora Araya,Corporativo,38,App,1,5128.74,2391.65,Austral,Aysén,Coyhaique,2024,5128.74
+C0023,Ana Espinoza,Home Office,10,App,5,18674.66,5667.69,Norte,Antofagasta,Antofagasta,2023,3734.93
+C0024,Catalina Muñoz,Consumidor,52,Web,5,24716.58,7814.47,Norte,Coquimbo,La Serena,2025,4943.32
+C0025,Jorge Martínez,Home Office,79,App,6,31440.16,11051.24,Centro,Valparaíso,Valparaíso,2025,5240.03
+C0026,Vicente Espinoza,Home Office,70,App,3,23764.41,7726.29,Centro,Maule,Talca,2023,7921.47
+C0027,Carlos Díaz,Home Office,64,Teléfono,2,9160.09,3154.79,Sur,La Araucanía,Temuco,2025,4580.04
+C0028,Benjamín Muñoz,Home Office,17,Web,9,25334.35,9463.48,Austral,Magallanes,Punta Arenas,2024,2814.93
+C0029,Fernanda Díaz,Consumidor,78,App,3,21057.53,6604.26,Austral,Aysén,Coyhaique,2024,7019.18
+C0030,Sebastián Soto,Corporativo,19,App,5,23739.32,8894.75,Sur,Los Ríos,Valdivia,2025,4747.86
+C0031,Carlos Muñoz,Home Office,21,Web,1,12467.16,4668.45,Centro,O'Higgins,Rancagua,2023,12467.16
+C0032,Sebastián Torres,Corporativo,17,Correo,5,22453.71,6823.11,Centro,Metropolitana,Santiago,2025,4490.74
+C0033,Ana López,Corporativo,64,Teléfono,4,12325.03,3008.68,Norte,Tarapacá,Iquique,2025,3081.26
+C0034,Camila Sepúlveda,Consumidor,50,Sin Información,4,26691.45,8077.96,Norte,Tarapacá,Iquique,2025,6672.86
+C0035,Josefa Torres,Home Office,17,App,4,27228.88,8783.95,Austral,Aysén,Coyhaique,2024,6807.22
+C0036,Benjamín Soto,Consumidor,96,Web,3,13158.03,3364.39,Centro,O'Higgins,Rancagua,2024,4386.01
+C0037,Carlos Espinoza,Consumidor,89,Web,6,23951.75,6855.12,Austral,Aysén,Coyhaique,2024,3991.96
+C0038,Nicolás Espinoza,Home Office,43,Teléfono,1,8734.32,2907.01,Sur,Biobío,Concepción,2023,8734.32
+C0039,Martina Morales,Consumidor,26,Correo,0,0.0,0.0,Sur,La Araucanía,Temuco,0,0.0
+C0040,Fernanda Rojas,Consumidor,19,Web,2,9548.3,1934.19,Sur,Los Ríos,Valdivia,2025,4774.15
+C0041,Antonia Martínez,Consumidor,41,Web,2,7859.7,2550.35,Centro,Metropolitana,Santiago,2023,3929.85
+C0042,Pedro Hernández,Home Office,95,Web,4,15363.98,4926.15,Centro,Metropolitana,Santiago,2024,3841.0
+C0043,Carlos Pérez,Corporativo,80,Web,7,16129.18,4314.1,Austral,Magallanes,Punta Arenas,2025,2304.17
+C0044,Diego Castillo,Consumidor,97,App,3,13509.73,4280.21,Austral,Magallanes,Punta Arenas,2024,4503.24
+C0045,Felipe Martínez,Consumidor,45,Correo,1,7028.01,2651.45,Sur,La Araucanía,Temuco,2023,7028.01
+C0046,Fernanda Pérez,Home Office,66,App,4,12618.87,4978.21,Sur,La Araucanía,Temuco,2025,3154.72
+C0047,Ana Díaz,Consumidor,57,Web,6,34038.42,12447.24,Centro,O'Higgins,Rancagua,2025,5673.07
+C0048,Sofía Muñoz,Corporativo,55,Web,3,14737.73,5654.91,Sur,Los Lagos,Puerto Montt,2025,4912.58
+C0049,Jorge Díaz,Corporativo,89,Correo,0,0.0,0.0,Norte,Antofagasta,Antofagasta,0,0.0
+C0050,Benjamín Soto,Consumidor,32,Web,6,21927.18,6746.4,Sur,La Araucanía,Temuco,2025,3654.53
+C0051,Gabriel Silva,Corporativo,58,Sin Información,0,0.0,0.0,Centro,Metropolitana,Santiago,0,0.0
+C0052,Jorge Contreras,Corporativo,39,Teléfono,8,48640.01,15892.71,Sur,La Araucanía,Temuco,2025,6080.0
+C0053,Nicolás Contreras,Corporativo,18,Teléfono,2,17737.7,6211.38,Norte,Tarapacá,Iquique,2024,8868.85
+C0054,Catalina Araya,Corporativo,13,Teléfono,11,45130.23,13941.3,Sur,La Araucanía,Temuco,2025,4102.75
+C0055,Pedro Espinoza,Corporativo,86,Web,4,25694.96,8241.65,Norte,Coquimbo,La Serena,2025,6423.74
+C0056,Matías Morales,Corporativo,59,Web,7,27417.66,12586.06,Centro,Metropolitana,Santiago,2025,3916.81
+C0057,Luis Fuentes,Consumidor,56,App,9,43536.08,13123.13,Sur,Los Lagos,Puerto Montt,2024,4837.34
+C0058,Nicolás Morales,Home Office,48,Web,5,19679.15,6238.89,Norte,Coquimbo,La Serena,2024,3935.83
+C0059,Nicolás Fuentes,Corporativo,80,Teléfono,2,7825.61,2449.39,Sur,Biobío,Concepción,2024,3912.8
+C0060,Sebastián López,Home Office,61,Teléfono,3,11326.4,4658.72,Norte,Antofagasta,Antofagasta,2023,3775.47
+C0061,Diego Sepúlveda,Consumidor,69,Teléfono,3,18534.93,5734.18,Norte,Tarapacá,Iquique,2025,6178.31
+C0062,Nicolás Contreras,Home Office,94,App,2,8686.72,1411.57,Centro,Maule,Talca,2023,4343.36
+C0063,Antonia Castillo,Corporativo,96,App,2,13710.57,3705.46,Sur,Los Lagos,Puerto Montt,2025,6855.28
+C0064,Gabriel Contreras,Consumidor,41,Web,1,510.48,143.86,Sur,La Araucanía,Temuco,2024,510.48
+C0065,Benjamín Rojas,Corporativo,99,App,4,31152.59,8816.97,Sur,Los Ríos,Valdivia,2024,7788.15
+C0066,Paula Silva,Consumidor,23,Web,3,14461.06,3278.3,Centro,Valparaíso,Valparaíso,2024,4820.35
+C0067,Pedro Araya,Corporativo,25,App,3,21318.12,6528.08,Norte,Antofagasta,Antofagasta,2024,7106.04
+C0068,Gabriel Hernández,Home Office,66,Sin Información,4,21468.0,6797.85,Centro,Valparaíso,Valparaíso,2024,5367.0
+C0069,Constanza Flores,Corporativo,67,Correo,4,26526.84,7890.78,Norte,Antofagasta,Antofagasta,2024,6631.71
+C0070,Constanza Martínez,Home Office,45,App,1,2778.21,874.2,Centro,Metropolitana,Santiago,2024,2778.21
+C0071,Martina Sepúlveda,Consumidor,50,Teléfono,3,16665.85,5851.64,Norte,Coquimbo,La Serena,2025,5555.28
+C0072,Sofía Pérez,Consumidor,100,App,6,27074.66,7958.87,Centro,Maule,Talca,2025,4512.44
+C0073,Sebastián Fuentes,Corporativo,63,Correo,3,7701.12,3562.8,Austral,Aysén,Coyhaique,2025,2567.04
+C0074,Constanza Fuentes,Corporativo,83,Web,3,11890.61,3455.56,Sur,La Araucanía,Temuco,2025,3963.54
+C0075,Ana Rodríguez,Corporativo,78,Correo,1,663.57,141.7,Norte,Coquimbo,La Serena,2024,663.57
+C0076,Isidora Silva,Corporativo,65,Teléfono,8,45007.22,13179.49,Norte,Antofagasta,Antofagasta,2025,5625.9
+C0077,Paula Morales,Home Office,31,Correo,3,16979.33,3239.94,Centro,Maule,Talca,2025,5659.78
+C0078,Ignacio Flores,Consumidor,20,Web,6,31495.91,7138.9,Austral,Magallanes,Punta Arenas,2024,5249.32
+C0079,Benjamín Hernández,Consumidor,58,Teléfono,3,22636.64,6841.59,Austral,Magallanes,Punta Arenas,2023,7545.55
+C0080,Daniela Morales,Corporativo,63,Teléfono,3,8320.81,2898.16,Austral,Aysén,Coyhaique,2024,2773.6
+C0081,Felipe González,Home Office,54,Web,7,34927.0,13374.11,Centro,Maule,Talca,2024,4989.57
+C0082,María Muñoz,Consumidor,12,App,8,35167.15,8688.21,Centro,Maule,Talca,2024,4395.89
+C0083,Sofía Torres,Home Office,69,App,3,17229.18,3688.05,Centro,Maule,Talca,2024,5743.06
+C0084,Pedro Castillo,Home Office,49,App,3,21378.89,6221.84,Norte,Coquimbo,La Serena,2025,7126.3
+C0085,Ana Sepúlveda,Home Office,60,Sin Información,4,9705.33,3916.48,Sur,Los Ríos,Valdivia,2024,2426.33
+C0086,Josefa Silva,Consumidor,82,Web,2,8544.71,3662.41,Sur,La Araucanía,Temuco,2025,4272.35
+C0087,Tomás Fuentes,Home Office,74,Web,4,27430.04,9531.62,Sur,Los Ríos,Valdivia,2024,6857.51
+C0088,Benjamín Fuentes,Corporativo,56,Correo,3,17138.36,6520.27,Centro,O'Higgins,Rancagua,2023,5712.79
+C0089,Sofía Fuentes,Consumidor,88,Teléfono,2,7096.01,2907.61,Norte,Tarapacá,Iquique,2024,3548.0
+C0090,Daniela Fuentes,Home Office,51,Teléfono,4,25725.96,6361.91,Centro,Maule,Talca,2023,6431.49
+C0091,Valentina Hernández,Consumidor,53,Correo,6,23982.26,8164.74,Norte,Tarapacá,Iquique,2025,3997.04
+C0092,Benjamín Morales,Consumidor,55,App,2,9903.53,1973.39,Centro,Metropolitana,Santiago,2023,4951.76
+C0093,Valentina Castillo,Home Office,76,Web,3,14303.92,4202.94,Norte,Antofagasta,Antofagasta,2024,4767.97
+C0094,Jorge Fuentes,Corporativo,98,App,2,9504.08,3331.07,Norte,Antofagasta,Antofagasta,2023,4752.04
+C0095,Martina Torres,Corporativo,47,Web,7,39711.3,13417.59,Sur,Biobío,Concepción,2025,5673.04
+C0096,Martina Silva,Corporativo,70,Teléfono,2,11972.28,3940.65,Austral,Aysén,Coyhaique,2024,5986.14
+C0097,Sebastián Flores,Corporativo,44,Correo,3,16830.58,5331.68,Centro,Maule,Talca,2024,5610.19
+C0098,Jorge Díaz,Home Office,25,Teléfono,3,21709.85,7273.88,Centro,Maule,Talca,2025,7236.62
+C0099,Pedro Contreras,Consumidor,85,Teléfono,2,8679.94,2482.88,Centro,Metropolitana,Santiago,2023,4339.97
+C0100,Diego Díaz,Consumidor,56,App,4,25107.52,9927.76,Sur,Biobío,Concepción,2025,6276.88
+C0101,Ana Flores,Consumidor,16,Web,8,54445.97,14837.72,Norte,Tarapacá,Iquique,2025,6805.75
+C0102,Sofía Torres,Consumidor,70,Sin Información,3,22546.72,6323.14,Centro,Metropolitana,Santiago,2024,7515.57
+C0103,Fernanda Soto,Consumidor,24,Correo,4,16453.86,4058.58,Austral,Aysén,Coyhaique,2023,4113.46
+C0104,Felipe Rojas,Home Office,29,Web,6,27315.42,8631.31,Norte,Coquimbo,La Serena,2025,4552.57
+C0105,Diego Rojas,Consumidor,87,Correo,5,31044.0,10424.5,Austral,Magallanes,Punta Arenas,2025,6208.8
+C0106,Paula Hernández,Corporativo,49,Correo,5,19441.76,6884.16,Centro,Maule,Talca,2025,3888.35
+C0107,Matías Díaz,Consumidor,43,App,4,21851.05,7152.32,Austral,Magallanes,Punta Arenas,2025,5462.76
+C0108,Jorge Soto,Home Office,10,App,1,1342.0,199.77,Centro,Metropolitana,Santiago,2024,1342.0
+C0109,Martina Castillo,Corporativo,39,Web,3,19945.44,6891.66,Norte,Coquimbo,La Serena,2023,6648.48
+C0110,Diego Hernández,Consumidor,90,Teléfono,3,10307.63,4206.71,Sur,Los Lagos,Puerto Montt,2025,3435.88
+C0111,Carlos Flores,Consumidor,44,App,6,33693.17,8432.77,Sur,Biobío,Concepción,2025,5615.53
+C0112,Luis Soto,Corporativo,66,Teléfono,1,5276.29,1942.94,Sur,Los Ríos,Valdivia,2023,5276.29
+C0113,Martina Sepúlveda,Home Office,74,Teléfono,5,21881.22,6829.98,Norte,Antofagasta,Antofagasta,2024,4376.24
+C0114,Daniela Rojas,Home Office,51,Correo,3,9405.41,3003.07,Austral,Aysén,Coyhaique,2024,3135.14
+C0115,María Silva,Home Office,96,Web,1,8163.0,2296.67,Centro,Maule,Talca,2025,8163.0
+C0116,Luis Soto,Corporativo,45,Correo,1,6349.86,982.28,Centro,Metropolitana,Santiago,2024,6349.86
+C0117,Sebastián Torres,Consumidor,62,Teléfono,8,37363.0,11691.86,Centro,Metropolitana,Santiago,2025,4670.38
+C0118,Nicolás Díaz,Consumidor,98,Correo,3,17939.87,5292.97,Austral,Magallanes,Punta Arenas,2025,5979.96
+C0119,Nicolás López,Home Office,21,Sin Información,4,11456.9,4396.78,Norte,Tarapacá,Iquique,2025,2864.22
+C0120,Fernanda Díaz,Corporativo,94,Web,12,44752.91,15411.35,Centro,Valparaíso,Valparaíso,2025,3729.41
+C0121,Sebastián Muñoz,Consumidor,89,Teléfono,6,17750.01,5328.01,Austral,Aysén,Coyhaique,2024,2958.34
+C0122,Daniela Muñoz,Consumidor,46,App,3,8232.04,2939.68,Centro,O'Higgins,Rancagua,2024,2744.01
+C0123,Felipe Díaz,Consumidor,100,App,8,44492.52,12302.44,Sur,Los Lagos,Puerto Montt,2025,5561.56
+C0124,Tomás González,Home Office,38,Web,6,32962.04,10175.22,Sur,Los Ríos,Valdivia,2024,5493.67
+C0125,Carlos Pérez,Corporativo,63,Teléfono,8,39924.98,10705.53,Centro,O'Higgins,Rancagua,2024,4990.62
+C0126,Jorge Hernández,Home Office,34,Correo,5,34470.25,11861.31,Centro,Valparaíso,Valparaíso,2025,6894.05
+C0127,Isidora Pérez,Consumidor,53,Correo,1,5382.87,1443.12,Norte,Tarapacá,Iquique,2023,5382.87
+C0128,Constanza González,Corporativo,29,Correo,1,10028.96,4916.82,Sur,La Araucanía,Temuco,2025,10028.96
+C0129,Felipe Rodríguez,Corporativo,68,Correo,5,18598.95,5578.22,Centro,Maule,Talca,2024,3719.79
+C0130,Martina Silva,Home Office,62,App,1,2480.96,1090.2,Centro,Valparaíso,Valparaíso,2025,2480.96
+C0131,Matías Torres,Home Office,94,Correo,2,9696.45,1225.38,Sur,La Araucanía,Temuco,2024,4848.23
+C0132,Luis Pérez,Home Office,22,Teléfono,2,13587.1,4283.41,Austral,Aysén,Coyhaique,2024,6793.55
+C0133,Antonia Hernández,Consumidor,93,Correo,4,20592.89,6586.88,Sur,Los Ríos,Valdivia,2024,5148.22
+C0134,Felipe Martínez,Corporativo,93,Correo,4,14882.06,4307.75,Centro,Maule,Talca,2024,3720.52
+C0135,Benjamín Flores,Corporativo,79,Correo,7,42301.5,12383.5,Sur,Biobío,Concepción,2024,6043.07
+C0136,María Silva,Home Office,21,Sin Información,2,12658.46,3798.41,Centro,O'Higgins,Rancagua,2023,6329.23
+C0137,Javiera Díaz,Corporativo,13,Teléfono,9,40635.06,13837.79,Sur,Los Ríos,Valdivia,2024,4515.01
+C0138,Gabriel Muñoz,Corporativo,65,Teléfono,4,28825.1,8541.36,Austral,Magallanes,Punta Arenas,2025,7206.28
+C0139,Antonia Fuentes,Home Office,31,App,5,17361.53,6468.1,Centro,O'Higgins,Rancagua,2025,3472.31
+C0140,Ignacio López,Home Office,73,App,7,22285.63,7605.9,Centro,Maule,Talca,2024,3183.66
+C0141,Daniela Martínez,Corporativo,69,Web,8,33261.49,9250.27,Norte,Tarapacá,Iquique,2024,4157.69
+C0142,Tomás Soto,Consumidor,85,Teléfono,7,25258.18,9264.32,Centro,Maule,Talca,2024,3608.31
+C0143,Sebastián Martínez,Corporativo,59,App,2,9698.82,3023.09,Austral,Magallanes,Punta Arenas,2024,4849.41
+C0144,Jorge López,Home Office,99,Teléfono,3,20036.34,5103.53,Sur,Biobío,Concepción,2024,6678.78
+C0145,Constanza López,Corporativo,87,Web,1,3211.55,628.63,Centro,Metropolitana,Santiago,2023,3211.55
+C0146,Javiera Silva,Home Office,91,App,7,30947.03,10036.55,Austral,Aysén,Coyhaique,2024,4421.0
+C0147,Valentina Pérez,Home Office,49,Web,2,5060.44,1802.3,Austral,Magallanes,Punta Arenas,2025,2530.22
+C0148,Josefa Rodríguez,Home Office,47,Web,3,7408.39,2767.9,Norte,Antofagasta,Antofagasta,2024,2469.46
+C0149,Sebastián Soto,Consumidor,77,Teléfono,5,16224.87,2841.79,Centro,Maule,Talca,2024,3244.97
+C0150,Constanza Soto,Corporativo,53,Teléfono,5,23006.97,6744.95,Sur,La Araucanía,Temuco,2025,4601.39
+C0151,María Pérez,Consumidor,81,Correo,3,11816.58,2517.61,Norte,Tarapacá,Iquique,2023,3938.86
+C0152,Gabriel López,Consumidor,68,Web,3,6855.71,1327.86,Centro,Metropolitana,Santiago,2025,2285.24
+C0153,Matías Martínez,Home Office,23,Sin Información,7,31660.39,10487.0,Centro,Metropolitana,Santiago,2025,4522.91
+C0154,Ana Castillo,Home Office,92,App,4,25764.08,8190.71,Sur,Los Ríos,Valdivia,2023,6441.02
+C0155,Constanza Hernández,Home Office,24,Correo,6,28478.73,8768.44,Sur,Biobío,Concepción,2025,4746.46
+C0156,Luis Sepúlveda,Corporativo,40,Web,3,12275.78,3210.21,Centro,O'Higgins,Rancagua,2025,4091.93
+C0157,Paula Hernández,Corporativo,85,Correo,3,11439.05,3311.71,Sur,La Araucanía,Temuco,2023,3813.02
+C0158,Catalina Díaz,Corporativo,45,Correo,5,26739.45,7026.47,Centro,Metropolitana,Santiago,2024,5347.89
+C0159,Andrés Contreras,Corporativo,56,App,4,18825.22,6420.61,Centro,Valparaíso,Valparaíso,2024,4706.3
+C0160,Andrés Flores,Home Office,60,Web,5,16878.57,5798.46,Sur,Los Ríos,Valdivia,2024,3375.71
+C0161,Carlos Hernández,Consumidor,92,App,6,16406.3,4877.05,Sur,Los Lagos,Puerto Montt,2024,2734.38
+C0162,Gabriel Morales,Consumidor,18,App,0,0.0,0.0,Norte,Coquimbo,La Serena,0,0.0
+C0163,Camila Silva,Corporativo,45,Web,5,37500.33,11657.06,Austral,Magallanes,Punta Arenas,2025,7500.07
+C0164,Tomás Martínez,Consumidor,26,Web,5,21730.39,8591.71,Sur,Los Lagos,Puerto Montt,2025,4346.08
+C0165,Gabriel Silva,Home Office,32,Web,3,11079.85,4038.14,Sur,Los Ríos,Valdivia,2024,3693.28
+C0166,Sofía Fuentes,Home Office,70,Web,1,9653.5,3822.86,Centro,Metropolitana,Santiago,2024,9653.5
+C0167,Antonia Espinoza,Consumidor,88,App,7,32850.71,8773.97,Centro,Metropolitana,Santiago,2025,4692.96
+C0168,Gabriel Araya,Corporativo,17,Web,4,14253.3,5337.76,Centro,O'Higgins,Rancagua,2024,3563.32
+C0169,Sebastián Díaz,Corporativo,20,Web,2,14121.69,3908.39,Norte,Antofagasta,Antofagasta,2025,7060.84
+C0170,Sofía Rojas,Consumidor,58,Sin Información,7,36129.61,11240.12,Centro,Metropolitana,Santiago,2024,5161.37
+C0171,Daniela Araya,Home Office,99,Web,3,15397.51,3795.43,Norte,Coquimbo,La Serena,2023,5132.5
+C0172,Catalina Flores,Home Office,67,Correo,2,12858.35,4103.55,Austral,Magallanes,Punta Arenas,2023,6429.17
+C0173,Fernanda Hernández,Corporativo,50,Web,2,3022.44,1223.87,Centro,Metropolitana,Santiago,2024,1511.22
+C0174,Nicolás Martínez,Corporativo,18,Correo,9,44127.26,12726.17,Sur,Los Lagos,Puerto Montt,2025,4903.03
+C0175,María Fuentes,Consumidor,81,App,5,19433.44,6314.46,Centro,Metropolitana,Santiago,2024,3886.69
+C0176,Tomás Flores,Corporativo,62,Web,2,8074.78,2408.44,Centro,Metropolitana,Santiago,2023,4037.39
+C0177,Javiera Fuentes,Home Office,86,Teléfono,4,12810.01,3900.85,Centro,O'Higgins,Rancagua,2025,3202.5
+C0178,Carlos Espinoza,Home Office,94,App,2,12983.45,4390.49,Centro,Valparaíso,Valparaíso,2024,6491.72
+C0179,Benjamín Díaz,Corporativo,24,Teléfono,4,26674.02,7644.98,Sur,Biobío,Concepción,2025,6668.5
+C0180,Jorge Fuentes,Home Office,87,Web,1,3170.4,1043.95,Sur,Los Ríos,Valdivia,2024,3170.4
+C0181,Pedro Martínez,Home Office,54,Teléfono,6,29084.58,9132.2,Centro,Valparaíso,Valparaíso,2025,4847.43
+C0182,Benjamín Pérez,Home Office,18,Correo,3,4254.74,1328.73,Centro,O'Higgins,Rancagua,2025,1418.25
+C0183,Catalina González,Consumidor,58,App,5,21916.5,8176.3,Sur,Biobío,Concepción,2025,4383.3
+C0184,Fernanda Soto,Corporativo,82,Teléfono,8,43613.86,15960.02,Norte,Coquimbo,La Serena,2024,5451.73
+C0185,Sofía Soto,Home Office,44,Web,0,0.0,0.0,Austral,Aysén,Coyhaique,0,0.0
+C0186,Sebastián Torres,Home Office,44,Correo,3,15212.51,6338.27,Austral,Magallanes,Punta Arenas,2025,5070.84
+C0187,Carlos Rodríguez,Corporativo,96,Sin Información,3,13466.53,2698.18,Centro,O'Higgins,Rancagua,2025,4488.84
+C0188,Nicolás Sepúlveda,Consumidor,86,Correo,4,24137.53,9331.47,Centro,O'Higgins,Rancagua,2024,6034.38
+C0189,Camila Sepúlveda,Consumidor,47,Teléfono,2,7228.49,2507.45,Centro,Maule,Talca,2024,3614.24
+C0190,Ana Torres,Home Office,26,App,2,5266.06,1141.21,Sur,Los Lagos,Puerto Montt,2024,2633.03
+C0191,Martina Silva,Home Office,19,Teléfono,2,7980.1,1159.85,Centro,Metropolitana,Santiago,2024,3990.05
+C0192,Luis Fuentes,Consumidor,50,Web,4,20077.74,7160.18,Norte,Tarapacá,Iquique,2024,5019.43
+C0193,Paula Fuentes,Corporativo,12,Correo,5,33221.44,9638.4,Centro,Valparaíso,Valparaíso,2025,6644.29
+C0194,Gabriel Castillo,Corporativo,65,Web,6,39758.13,12792.79,Sur,Los Lagos,Puerto Montt,2025,6626.36
+C0195,Sebastián Espinoza,Corporativo,60,Web,4,25779.92,8703.02,Austral,Aysén,Coyhaique,2024,6444.98
+C0196,Fernanda Silva,Corporativo,75,Web,3,15730.37,6224.72,Centro,Valparaíso,Valparaíso,2024,5243.46
+C0197,Antonia Contreras,Corporativo,40,App,6,28480.37,7427.5,Centro,Metropolitana,Santiago,2025,4746.73
+C0198,Valentina Contreras,Consumidor,93,App,5,23827.24,10155.67,Centro,Metropolitana,Santiago,2024,4765.45
+C0199,Javiera Torres,Corporativo,97,Correo,7,24515.41,8387.62,Sur,Los Lagos,Puerto Montt,2024,3502.2
+C0200,Fernanda Pérez,Corporativo,66,Correo,7,39316.79,13154.46,Centro,Metropolitana,Santiago,2025,5616.68
+C0201,Josefa Muñoz,Corporativo,49,Web,2,15079.47,5726.08,Sur,La Araucanía,Temuco,2025,7539.74
+C0202,Luis Muñoz,Corporativo,92,Web,3,13062.3,4279.47,Sur,Los Ríos,Valdivia,2024,4354.1
+C0203,Ignacio Araya,Corporativo,67,Web,5,15826.5,4401.4,Centro,Valparaíso,Valparaíso,2025,3165.3
+C0204,Ignacio Torres,Home Office,67,Sin Información,2,7899.73,3084.42,Sur,Biobío,Concepción,2025,3949.86
+C0205,Martina Rojas,Home Office,15,App,1,8223.36,2245.46,Sur,Los Ríos,Valdivia,2024,8223.36
+C0206,Daniela Hernández,Home Office,56,App,0,0.0,0.0,Sur,Biobío,Concepción,0,0.0
+C0207,Paula Fuentes,Corporativo,90,Web,3,11192.94,2745.04,Norte,Tarapacá,Iquique,2024,3730.98
+C0208,Fernanda Díaz,Home Office,46,Correo,4,22321.31,6085.53,Austral,Magallanes,Punta Arenas,2024,5580.33
+C0209,Benjamín Castillo,Consumidor,84,Web,8,36080.22,11884.13,Norte,Tarapacá,Iquique,2025,4510.03
+C0210,Diego López,Consumidor,49,Web,5,32116.84,9665.79,Austral,Aysén,Coyhaique,2024,6423.37
+C0211,Gabriel Morales,Consumidor,92,Web,2,16673.7,5655.06,Sur,Biobío,Concepción,2024,8336.85
+C0212,Andrés González,Corporativo,37,App,3,14381.52,3211.66,Sur,La Araucanía,Temuco,2025,4793.84
+C0213,Camila Silva,Consumidor,47,Web,3,25391.87,6843.13,Norte,Antofagasta,Antofagasta,2024,8463.96
+C0214,Javiera Flores,Home Office,94,Web,3,20048.74,6189.63,Norte,Antofagasta,Antofagasta,2025,6682.91
+C0215,Sofía Castillo,Corporativo,33,App,6,29232.93,8395.82,Norte,Coquimbo,La Serena,2025,4872.16
+C0216,Daniela Muñoz,Corporativo,66,App,0,0.0,0.0,Sur,Los Ríos,Valdivia,0,0.0
+C0217,Gabriel Hernández,Consumidor,49,App,4,2218.29,519.76,Austral,Magallanes,Punta Arenas,2025,554.57
+C0218,Andrés Espinoza,Corporativo,58,Teléfono,3,16182.9,5353.77,Centro,Maule,Talca,2024,5394.3
+C0219,Sebastián Soto,Consumidor,42,App,3,12979.0,4019.11,Sur,Los Ríos,Valdivia,2024,4326.33
+C0220,Felipe Rodríguez,Home Office,46,Web,3,3928.43,1392.31,Norte,Coquimbo,La Serena,2023,1309.48
+C0221,Valentina Hernández,Home Office,21,Sin Información,7,33241.17,10248.33,Norte,Tarapacá,Iquique,2024,4748.74
+C0222,Isidora Rodríguez,Consumidor,60,Web,2,13960.79,3972.88,Centro,Metropolitana,Santiago,2024,6980.4
+C0223,Jorge López,Consumidor,13,App,3,20998.89,5708.03,Sur,Biobío,Concepción,2024,6999.63
+C0224,Constanza Morales,Consumidor,46,Web,4,27210.26,11094.03,Norte,Antofagasta,Antofagasta,2024,6802.56
+C0225,Constanza Pérez,Home Office,88,Correo,2,23182.06,10189.78,Sur,Los Ríos,Valdivia,2024,11591.03
+C0226,Ana Martínez,Consumidor,24,Correo,2,22646.32,6921.82,Sur,Los Lagos,Puerto Montt,2024,11323.16
+C0227,Diego Díaz,Consumidor,91,Correo,8,57027.37,17301.36,Sur,Los Ríos,Valdivia,2025,7128.42
+C0228,Carlos Torres,Home Office,90,Web,1,3609.83,1068.98,Norte,Antofagasta,Antofagasta,2024,3609.83
+C0229,Jorge Pérez,Corporativo,88,Web,6,34617.38,10375.44,Sur,La Araucanía,Temuco,2025,5769.56
+C0230,Josefa Fuentes,Consumidor,77,Web,0,0.0,0.0,Centro,Maule,Talca,0,0.0
+C0231,Antonia Flores,Home Office,59,Web,3,10672.36,2455.88,Norte,Antofagasta,Antofagasta,2024,3557.45
+C0232,Catalina López,Corporativo,55,Web,9,28292.93,9934.22,Austral,Aysén,Coyhaique,2025,3143.66
+C0233,Jorge Díaz,Home Office,15,App,4,20076.98,6143.49,Sur,La Araucanía,Temuco,2024,5019.24
+C0234,Fernanda Soto,Home Office,90,Correo,4,15957.3,5625.87,Norte,Antofagasta,Antofagasta,2025,3989.32
+C0235,María Hernández,Consumidor,15,App,5,24895.14,9408.23,Austral,Aysén,Coyhaique,2024,4979.03
+C0236,Fernanda Sepúlveda,Home Office,42,Correo,9,30871.82,10021.42,Centro,Maule,Talca,2025,3430.2
+C0237,Camila Sepúlveda,Corporativo,44,Teléfono,4,18440.61,6208.48,Norte,Tarapacá,Iquique,2024,4610.15
+C0238,Sebastián López,Home Office,53,Sin Información,2,17735.6,5093.01,Norte,Coquimbo,La Serena,2024,8867.8
+C0239,Martina Torres,Corporativo,20,Teléfono,6,19320.32,7295.27,Norte,Tarapacá,Iquique,2025,3220.05
+C0240,Sebastián Castillo,Consumidor,51,Teléfono,3,19888.42,5774.45,Centro,Metropolitana,Santiago,2024,6629.47
+C0241,Fernanda Sepúlveda,Corporativo,31,Correo,4,30114.68,8760.71,Sur,La Araucanía,Temuco,2025,7528.67
+C0242,Daniela Muñoz,Home Office,45,Correo,0,0.0,0.0,Centro,O'Higgins,Rancagua,0,0.0
+C0243,Nicolás López,Corporativo,13,App,9,40724.07,10590.74,Austral,Magallanes,Punta Arenas,2025,4524.9
+C0244,Nicolás Hernández,Consumidor,40,Web,7,30268.79,9681.97,Norte,Coquimbo,La Serena,2025,4324.11
+C0245,Paula Espinoza,Consumidor,96,App,4,27536.04,8725.01,Centro,Maule,Talca,2024,6884.01
+C0246,Andrés Hernández,Consumidor,77,App,4,11379.62,4273.21,Sur,Los Lagos,Puerto Montt,2025,2844.9
+C0247,Fernanda Martínez,Consumidor,33,Web,2,8061.54,2419.44,Austral,Aysén,Coyhaique,2024,4030.77
+C0248,Paula Flores,Consumidor,100,Teléfono,0,0.0,0.0,Centro,Valparaíso,Valparaíso,0,0.0
+C0249,Ignacio Sepúlveda,Home Office,25,App,4,20142.74,6732.76,Norte,Coquimbo,La Serena,2025,5035.68
+C0250,Daniela Soto,Home Office,97,Web,3,16085.33,5823.37,Sur,Los Ríos,Valdivia,2024,5361.78
+C0251,Andrés Rojas,Home Office,48,Teléfono,1,5431.18,2538.27,Norte,Antofagasta,Antofagasta,2023,5431.18
+C0252,Martina Soto,Corporativo,25,App,3,13109.5,3701.62,Centro,Maule,Talca,2025,4369.83
+C0253,Jorge Torres,Consumidor,69,Teléfono,6,16890.02,4834.68,Centro,Maule,Talca,2025,2815.0
+C0254,Isidora Rojas,Consumidor,71,Correo,6,26738.28,8718.25,Sur,Biobío,Concepción,2024,4456.38
+C0255,Javiera Fuentes,Home Office,50,Sin Información,6,25743.23,8856.09,Sur,Los Ríos,Valdivia,2025,4290.54
+C0256,Daniela Araya,Corporativo,26,App,4,18039.3,5944.51,Austral,Aysén,Coyhaique,2025,4509.82
+C0257,Vicente Muñoz,Consumidor,48,App,5,26641.13,9056.4,Norte,Coquimbo,La Serena,2024,5328.23
+C0258,Fernanda Silva,Corporativo,20,Teléfono,4,19992.11,6532.38,Centro,Maule,Talca,2025,4998.03
+C0259,Catalina Flores,Corporativo,88,Teléfono,6,29513.62,10293.06,Austral,Magallanes,Punta Arenas,2025,4918.94
+C0260,Antonia Soto,Home Office,31,App,3,17378.48,5967.04,Sur,Los Lagos,Puerto Montt,2024,5792.83
+C0261,Luis González,Consumidor,93,Teléfono,2,11555.49,3906.09,Norte,Coquimbo,La Serena,2025,5777.74
+C0262,Sebastián Castillo,Home Office,90,Correo,3,13560.41,2670.7,Norte,Antofagasta,Antofagasta,2024,4520.14
+C0263,Catalina Sepúlveda,Corporativo,48,Correo,2,12142.14,4727.33,Centro,Metropolitana,Santiago,2024,6071.07
+C0264,Martina Muñoz,Consumidor,71,Correo,2,13171.84,4119.28,Austral,Aysén,Coyhaique,2024,6585.92
+C0265,Fernanda Castillo,Consumidor,54,Teléfono,3,14018.14,5540.82,Sur,Biobío,Concepción,2024,4672.71
+C0266,Javiera Rodríguez,Home Office,50,Web,3,9276.87,3112.98,Norte,Antofagasta,Antofagasta,2024,3092.29
+C0267,Carlos Martínez,Corporativo,22,App,7,24200.91,6463.67,Sur,Los Ríos,Valdivia,2024,3457.27
+C0268,Paula Castillo,Corporativo,51,App,5,26627.03,9103.09,Sur,La Araucanía,Temuco,2025,5325.41
+C0269,Javiera Soto,Corporativo,73,Correo,8,37750.39,11611.72,Sur,Los Ríos,Valdivia,2025,4718.8
+C0270,Ana Rojas,Corporativo,40,Correo,6,25520.07,7824.46,Norte,Tarapacá,Iquique,2025,4253.34
+C0271,Andrés Muñoz,Consumidor,86,Correo,5,32108.41,8654.21,Centro,O'Higgins,Rancagua,2025,6421.68
+C0272,Tomás González,Consumidor,43,Sin Información,2,12266.91,3418.57,Centro,Metropolitana,Santiago,2024,6133.46
+C0273,Andrés Muñoz,Corporativo,56,App,1,2092.06,559.63,Norte,Tarapacá,Iquique,2024,2092.06
+C0274,Paula Araya,Corporativo,89,Teléfono,5,12853.05,3424.23,Austral,Aysén,Coyhaique,2024,2570.61
+C0275,Carlos López,Corporativo,28,Teléfono,5,19573.81,6212.02,Centro,Maule,Talca,2025,3914.76
+C0276,Antonia López,Home Office,14,Web,3,19935.71,6992.94,Centro,Valparaíso,Valparaíso,2025,6645.24
+C0277,Fernanda Torres,Home Office,87,App,8,36041.61,9448.11,Sur,Los Lagos,Puerto Montt,2025,4505.2
+C0278,Fernanda Castillo,Corporativo,88,Correo,3,11999.49,4140.68,Sur,Los Lagos,Puerto Montt,2024,3999.83
+C0279,Fernanda Araya,Home Office,100,Correo,2,3153.63,873.51,Centro,Maule,Talca,2024,1576.82
+C0280,Constanza González,Corporativo,63,Web,3,17668.69,4226.13,Sur,La Araucanía,Temuco,2025,5889.56
+C0281,Benjamín González,Home Office,93,Teléfono,9,45361.41,15487.82,Centro,Maule,Talca,2024,5040.16
+C0282,Luis Espinoza,Corporativo,28,Correo,6,26717.79,8850.06,Austral,Aysén,Coyhaique,2024,4452.96
+C0283,Josefa Díaz,Consumidor,50,Correo,7,37785.68,12728.55,Austral,Magallanes,Punta Arenas,2024,5397.95
+C0284,Sebastián Contreras,Corporativo,17,Correo,6,37942.92,11716.85,Austral,Aysén,Coyhaique,2025,6323.82
+C0285,Camila Flores,Corporativo,77,Correo,5,24403.84,6301.82,Sur,La Araucanía,Temuco,2024,4880.77
+C0286,Pedro Hernández,Home Office,96,Teléfono,0,0.0,0.0,Centro,O'Higgins,Rancagua,0,0.0
+C0287,Felipe Contreras,Consumidor,38,Teléfono,5,17006.58,3935.45,Norte,Coquimbo,La Serena,2024,3401.32
+C0288,Martina Contreras,Home Office,71,Teléfono,4,18030.04,4528.47,Centro,Metropolitana,Santiago,2025,4507.51
+C0289,Vicente Martínez,Corporativo,60,Sin Información,4,24167.37,7214.69,Norte,Coquimbo,La Serena,2024,6041.84
+C0290,Diego Muñoz,Corporativo,66,Teléfono,1,1122.77,83.81,Sur,Los Lagos,Puerto Montt,2023,1122.77
+C0291,Felipe Contreras,Consumidor,81,Teléfono,6,9041.89,2880.75,Sur,Los Lagos,Puerto Montt,2025,1506.98
+C0292,Carlos Castillo,Home Office,41,App,4,28892.9,6010.88,Centro,Maule,Talca,2025,7223.22
+C0293,Isidora Araya,Consumidor,16,App,4,18038.78,7059.47,Centro,O'Higgins,Rancagua,2025,4509.7
+C0294,Fernanda Torres,Consumidor,10,App,3,6356.95,1775.34,Sur,Los Ríos,Valdivia,2024,2118.98
+C0295,Catalina Torres,Corporativo,46,App,3,5213.92,825.02,Austral,Magallanes,Punta Arenas,2024,1737.97
+C0296,Catalina Muñoz,Consumidor,78,App,4,17781.25,6243.91,Sur,Biobío,Concepción,2024,4445.31
+C0297,Sebastián Soto,Consumidor,33,Correo,2,8392.58,2119.36,Centro,O'Higgins,Rancagua,2025,4196.29
+C0298,Ana Sepúlveda,Home Office,52,Web,2,7196.04,2214.63,Centro,Maule,Talca,2025,3598.02
+C0299,Catalina Flores,Home Office,74,App,2,11585.77,4560.72,Norte,Tarapacá,Iquique,2025,5792.88
+C0300,Camila Díaz,Corporativo,92,Correo,8,40464.91,12434.33,Sur,Los Lagos,Puerto Montt,2025,5058.11
