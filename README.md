@@ -15,6 +15,6 @@ Descubrimos:
 Y las 3 acciones estratégicas claras para la gerencia:
 - Proteger a los clientes qure generan ingresos
 - Activar a los que compran seguido
--Contactar a los que nunca compraron con un bono de bienvenida
+- Contactar a los que nunca compraron con un bono de bienvenida
 
 No se trataba de darle a la gerencia números inflados, era darle una hoja de ruta real con estrategias y sus impactos para saber en donde invertir sus recursos.
