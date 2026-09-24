@@ -13,7 +13,7 @@ Descubrimos:
 - 11 clientes nunca compraron — son oportunidad, no pérdida
 
 Y las 3 acciones estratégicas claras para la gerencia:
-- Proteger a los clientes qure generan ingresos
+- Proteger a los clientes que generan ingresos
 - Activar a los que compran seguido
 - Contactar a los que nunca compraron con un bono de bienvenida
 
