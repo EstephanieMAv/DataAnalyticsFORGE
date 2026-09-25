@@ -1,4 +1,4 @@
-Ejercicios de Python - ETAPA DE BECAS.
+Carpeta Python : Ejercicios de Python - ETAPA DE BECAS.
 
 Portafolio profesional del caso Supertienda : Bajo una pregunta simple
 ¿Quiénes son nuestros mejores clientes?
